@@ -1,1 +1,1 @@
-This is Isabel's first git project!
+This is my first project with The Odin Project: HTML & CSS
